@@ -1,2 +1,3 @@
 # CodeWars-JS-Challenges
-Codewars solutions in JavaScript ⚔️
+- [TEST](https://www.codewars.com/users/veselinppetkov/badges/large)
+
